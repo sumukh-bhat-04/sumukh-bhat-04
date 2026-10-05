@@ -7,6 +7,7 @@ I'm an aspiring AI/ML Engineer interested in building practical applications usi
 I learn by building projects and exploring how AI technologies can be applied to solve real-world problems.
 
 **🧠 Areas of Interest**
+
 🤖 Machine Learning
 
 🧠 Generative AI & LLMs
