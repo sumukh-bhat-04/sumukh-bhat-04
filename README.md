@@ -1,47 +1,35 @@
-👋 Hi, I'm Sumukha Bhat
+# 👋 Hi, I'm Sumukh Bhat H A
 
-🎓 MCA Graduate | Aspiring Data Analyst & AI/ML Enthusiast
+**AI/ML Engineer | Python | Machine Learning | Generative AI**
 
-Interested in working with data, finding meaningful insights, and building practical applications using **Python, SQL, Machine Learning, and AI**.
+I'm an aspiring AI/ML Engineer interested in building practical applications using Python, Machine Learning, and Generative AI.
 
-💻 **Tech Stack**
+I learn by building projects and exploring how AI technologies can be applied to solve real-world problems.
 
-🐍 Python • 🗃️ SQL • 📊 Pandas • 🔢 NumPy
-📈 Matplotlib • 🎨 Seaborn • 🤖 Scikit-learn
-🧠 Machine Learning • ✨ Generative AI • 🔎 RAG
-🛢️ MySQL • PostgreSQL • MongoDB
-🔧 Git • GitHub • Jupyter Notebook
-
-🚀 **Projects**
-
-🔎 **AutiScan**
-
-A machine learning-based web application for autism risk screening.
-
-Tech: Python, Django, Machine Learning, Scikit-learn
-
-📄 **PDF Q&A Assistant**
-
-An AI-powered application that allows users to ask questions about PDF documents using Retrieval-Augmented Generation (RAG).
-
-Tech: Python, LangChain, OpenAI, ChromaDB
-
-📚** Areas of Interest**
-
-📊 Data Analysis and Visualization
-
-🧮 SQL and Database Management
-
+**🧠 Areas of Interest**
 🤖 Machine Learning
 
-🧠 Generative AI and RAG
+🧠 Generative AI & LLMs
 
-📈 Power BI
+🔍 Retrieval-Augmented Generation (RAG)
 
-🎯 **Looking For**
+🐍 Python
 
-Opportunities to start my career in **Data Analytics, AI/ML, or related roles,** where I can apply my skills, learn from experienced teams, and work on real-world problems.
+🌐 AI-powered applications
 
-📫 Connect With Me
+**🚀 Featured Projects**
+**🧠 AutiScan**
+A machine learning-based web application for autism risk screening, built with Python and Django.
 
-[📧 Email](sumukhbhatha@Gmail.com) 
+Focus: Machine Learning · Python · Django · Scikit-learn
+
+**📄 PDF Q&A Assistant**
+A Retrieval-Augmented Generation application that allows users to ask questions about PDF documents using LLMs, LangChain, and ChromaDB.
+
+Focus: Generative AI · RAG · LLMs · LangChain · ChromaDB
+
+**🔧 Areas I'm Exploring**
+I'm continuously strengthening my foundations in AI/ML and Generative AI while building practical projects and improving my software development skills.
+
+**📫 Connect**<br>
+📧[Gmail](sumukhbhatha@gmail.com)
