@@ -27,7 +27,7 @@ Focus: Machine Learning · Python · Django · Scikit-learn
 A Retrieval-Augmented Generation application that allows users to ask questions about PDF documents using LLMs, LangChain, and ChromaDB.
 Focus: Generative AI · RAG · LLMs · LangChain · ChromaDB
 
-** 🔧 Areas I'm Exploring** <br>
+**🔧 Areas I'm Exploring** <br>
 I'm continuously strengthening my foundations in **AI/ML and Generative AI** while building practical projects and improving my software development skills.
 
 **📫 Connect**<br>
