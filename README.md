@@ -5,8 +5,7 @@
 I'm an aspiring AI/ML Engineer interested in building practical applications using Python, Machine Learning, and Generative AI.
 
 I learn by building projects and exploring how AI technologies can be applied to solve real-world problems.
-
-
+<br>
 **🧠 Areas of Interest**
 
 🤖 Machine Learning
